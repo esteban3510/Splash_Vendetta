@@ -1,3 +1,4 @@
+[La Biblia del Juego.docx](https://github.com/user-attachments/files/29182887/La.Biblia.del.Juego.docx)
 # 🎨 Splash Vendetta
 
 **Splash Vendetta** es un Shooter Táctico 3D donde la estrategia, el sigilo y la pintura se combinan en una experiencia única. 
