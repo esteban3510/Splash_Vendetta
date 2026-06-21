@@ -14,8 +14,3 @@ La pintura neón genera un fuerte contraste visual contra las atmósferas lúgub
 * **Género:** Acción / Shooter Táctico 3D.
 * **Estilo Visual:** Contraste de entornos oscuros con colores neón vibrantes.
 * **Interactividad:** Modificación del entorno en tiempo real mediante físicas y colisiones de pintura (Desarrollado en Unity).
-
-## 👨‍💻 Desarrollador
-* **Autor:** Junior Esteban Benavides Arias
-* **Programa:** Desarrollo de Videojuegos y Entornos Interactivos
-* **Institución:** Centro de Diseño Tecnológico Industrial - Regional Valle (SENA)
