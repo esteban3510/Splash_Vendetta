@@ -1,6 +1,6 @@
 # Splash Vendetta
 
-[cite_start]**Splash Vendetta** es un videojuego de acción y shooter táctico en primera persona (FPS) con fuertes elementos de sigilo[cite: 15]. [cite_start]Desarrollado para PC (Windows) [cite: 16][cite_start], el título ofrece una propuesta visual 3D estilizada (semi-realista), caracterizada por atmósferas oscuras que contrastan intensamente con brillantes colores neón de pintura[cite: 17].
+**Splash Vendetta** es un videojuego de acción y shooter táctico en primera persona (FPS) con fuertes elementos de sigilo[cite: 15]. [cite_start]Desarrollado para PC (Windows) [cite: 16][cite_start], el título ofrece una propuesta visual 3D estilizada (semi-realista), caracterizada por atmósferas oscuras que contrastan intensamente con brillantes colores neón de pintura[cite: 17].
 
 ## 🎯 Sinopsis y Objetivo
 [cite_start]El jugador asume el rol de **Skoll**, un agente infiltrado que debe adentrarse en entornos clandestinos para identificar, marcar con pintura y neutralizar objetivos pertenecientes a una facción enemiga[cite: 36]. 
