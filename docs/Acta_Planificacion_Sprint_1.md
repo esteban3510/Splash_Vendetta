@@ -5,7 +5,7 @@
 | Campo | Detalle |
 |---|---|
 | Fecha | 1 de noviembre de 2026 |
-| Modalidad | Virtual, individual (el desarrollo lo realiza una sola persona) |
+| Modalidad | Virtual, individual |
 | Asistente | Junior Esteban Benavides Arias — asume los roles de Product Owner, Scrum Master y desarrollador |
 | Motivo | Definir el alcance del Sprint 1 y decidir qué tareas del backlog se ejecutarán |
 
