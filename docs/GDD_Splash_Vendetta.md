@@ -95,6 +95,21 @@ El prototipo valida la mecánica nuclear y su integración con un primer combate
 
 **M3 · Apuntar con acercamiento.** Al apuntar, la vista se acerca para ayudar a acertar objetivos lejanos y el personaje se mueve más despacio. Es una decisión táctica: más precisión a cambio de movilidad.
 
+**M4 · Disparo de pintura (mecánica nuclear).**
+
+- **Propósito:** es la acción principal del juego. Sirve para marcar superficies, completar los objetivos de entrenamiento y dañar al enemigo.
+- **Acción:** el clic izquierdo dispara una bola de pintura hacia el punto que señala la mira central.
+- **Condición:** el jugador solo puede disparar después de recoger la marcadora (M2).
+- **Precisión:** apuntar con acercamiento (M3) hace el disparo más preciso, a cambio de moverse más despacio.
+- **Ritmo de disparo:** pausado y deliberado, para premiar la puntería sobre la ráfaga. Valor por calibrar en pruebas.
+- **Munición:** limitada, con indicador en pantalla (por implementar).
+- **Retroalimentación inmediata:** al disparar se oye el aire comprimido de la marcadora; al impactar aparece la mancha neón con su sonido húmedo (ver sección 5).
+- **Criterios de aceptación de diseño:**
+  1. Cada pulsación produce un solo disparo, sin retraso perceptible.
+  2. El proyectil sale hacia donde apunta la mira.
+  3. Cada disparo se acompaña de su sonido.
+  4. El comportamiento del proyectil en vuelo y al impactar se rige por la ficha de la sección 5.
+
 **M5 · Objetivos de entrenamiento.**
 
 - Hay tres maniquíes con el logo de la facción enemiga en el pecho.
