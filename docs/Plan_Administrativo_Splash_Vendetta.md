@@ -55,8 +55,6 @@ Los sprints 2 y 3 son una propuesta y se ajustarán en la planificación de cada
 
 ## 3. Presupuesto estimado
 
-Los valores son estimaciones de referencia académica con supuestos explícitos. Ajusta los supuestos si tu realidad es distinta.
-
 ### 3.1 Supuestos
 
 | Supuesto | Valor |
