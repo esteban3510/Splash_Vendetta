@@ -1,6 +1,6 @@
 # Splash Vendetta — Plan Administrativo
 
-**Metodología SUM (Scrum for Video Games) · Evidencia GA6-220501088-AA1-EV01 · Versión 1.0 · 1 de noviembre de 2026**
+**Metodología SUM (Scrum for Video Games) · Evidencia GA6-220501088-AA1-EV01 · Versión 1.1 · 3 de noviembre de 2026**
 
 | Campo | Detalle |
 |---|---|
@@ -18,7 +18,7 @@
 | Conceptualización | Documento de alto concepto, GDD v1.0, benchmarking y pitch | Completada |
 | Prototipo vertical “El Refugio” | Mecánica nuclear, efectos visuales y sonoros, corrección de fallos | Completada |
 | Iteración de validación | Enemigo básico, eliminación de objetivos, combate, pruebas con 5 jugadores y ajustes (Build V1.1) | Completada |
-| Sprint 1 · Conceptualización y especificación | Concepto consolidado, plan administrativo, GDD v1.1 en el repositorio | En curso |
+| Sprint 1 · Conceptualización, planificación y especificación | Concepto consolidado, plan administrativo, GDD v1.1 en el repositorio | Completado el 3 de nov de 2026 (13 de 13 puntos) |
 
 ---
 
@@ -28,7 +28,7 @@
 
 | Hito | Inicio | Fin | Estado |
 |---|---|---|---|
-| Sprint 1 · Conceptualización, planificación y especificación | 2 nov 2026 | 4 nov 2026 | En curso |
+| Sprint 1 · Conceptualización, planificación y especificación | 2 nov 2026 | 3 nov 2026 (cierre real; planificado: 4 nov) | Completado |
 | **Entrega 1** (GA6-220501088-AA1-EV01) | — | **5 nov 2026** | Pendiente |
 | Sprint 2 · Diagrama de clases UML y pseudocódigo (propuesto) | 6 nov 2026 | 17 nov 2026 | Propuesto |
 | Sprint 3 · Diagramas de secuencia e implementación en C# (propuesto) | 18 nov 2026 | 1 dic 2026 | Propuesto |
@@ -51,9 +51,13 @@ Los sprints 2 y 3 son una propuesta y se ajustarán en la planificación de cada
 
 **Total comprometido:** 13 puntos de esfuerzo.
 
+**Cierre real:** las 9 tareas se completaron el 3 de noviembre (2 de nov: 4 puntos; 3 de nov: 9 puntos).
+
 ---
 
 ## 3. Presupuesto estimado
+
+Los valores son estimaciones de referencia académica con supuestos explícitos. Ajusta los supuestos si tu realidad es distinta.
 
 ### 3.1 Supuestos
 
@@ -110,6 +114,6 @@ Los sprints 2 y 3 son una propuesta y se ajustarán en la planificación de cada
 | Espacio | Splash Vendetta |
 | Carpeta de sprints | Sprints (con el complemento Sprints activado) |
 | Lista de backlog | Backlog del proyecto |
-| Sprint actual | Sprint 1 · Conceptualización (2 a 4 nov 2026) |
+| Sprint 1 | Sprint 1 · Conceptualización (2 a 8 nov en ClickUp; completado el 3 nov 2026) |
 | Medida de costo | Puntos de esfuerzo (Sprint Points) |
 | Etiquetas | Conceptualización · Planificación administrativa · Especificación · Elaboración (Entrega 2) |

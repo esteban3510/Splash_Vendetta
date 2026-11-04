@@ -5,7 +5,7 @@
 | Campo | Detalle |
 |---|---|
 | Fecha | 1 de noviembre de 2026 |
-| Modalidad | Virtual, individual |
+| Modalidad | Virtual, individual (el desarrollo lo realiza una sola persona) |
 | Asistente | Junior Esteban Benavides Arias — asume los roles de Product Owner, Scrum Master y desarrollador |
 | Motivo | Definir el alcance del Sprint 1 y decidir qué tareas del backlog se ejecutarán |
 
@@ -93,14 +93,16 @@ Se da por terminada la reunión de planificación. El Sprint 1 inicia el 2 de no
 
 ## 9. Revisión y retrospectiva del Sprint 1
 
-*Se completa el 4 de noviembre con los datos reales del sprint.*
+*Registrada el 3 de noviembre de 2026, al cierre de todas las tareas del sprint.*
 
 | Aspecto | Registro |
 |---|---|
-| Puntos comprometidos | |
-| Puntos completados | |
-| Tareas no completadas y motivo | |
-| Cambios de alcance durante el sprint | |
-| Qué funcionó bien | |
-| Qué se debe mejorar | |
-| Acciones para el Sprint 2 | |
+| Puntos comprometidos | 13 puntos (9 tareas) |
+| Puntos completados | 13 puntos (100 %). Las 9 tareas quedaron en estado COMPLETADA el 3 de noviembre, un día antes del cierre planificado |
+| Avance diario | 2 de nov: 4 puntos · 3 de nov: 9 puntos (planificado: 4, 4 y 5 puntos para el 2, 3 y 4 de nov) |
+| Tareas no completadas | Ninguna |
+| Cambios de alcance durante el sprint | Ninguno: no se agregaron ni quitaron tareas y no se modificaron puntos ni fechas |
+| Estimación frente a lo real | Sin diferencias importantes. La tarea que resultó algo más compleja fue la migración y actualización del GDD |
+| Qué funcionó bien | 1. Las etiquetas por fase (Conceptualización, Planificación administrativa y Especificación) ordenaron el trabajo. 2. Subir los documentos al repositorio y enlazarlos en cada tarea dejó evidencia verificable. 3. Los estados EN DESARROLLO, EN REVISIÓN y COMPLETADA guiaron el flujo de trabajo |
+| Qué se debe mejorar | La organización del tiempo: aunque el sprint se cerró antes de lo previsto, conviene distribuir mejor la carga entre los días |
+| Acciones para el Sprint 2 | Empezar antes los diagramas UML de la Entrega 2 |

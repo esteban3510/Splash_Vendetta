@@ -90,7 +90,7 @@ El cuadro comparativo de seis criterios está en el GDD v1.1.
 | Conceptualización | Completada, consolidada en esta versión |
 | Prototipo vertical “El Refugio” | Completado |
 | Iteración de validación (enemigo, combate, pruebas con 5 jugadores) | Completada |
-| Sprint 1 · Conceptualización, planificación y especificación | En curso (2 a 8 de nov en ClickUp; cierre planificado el 4 de nov de 2026) |
+| Sprint 1 · Conceptualización, planificación y especificación | Completado el 3 de nov de 2026 (sprint de ClickUp: 2 a 8 de nov) |
 
 ## 9. Documentos relacionados
 
