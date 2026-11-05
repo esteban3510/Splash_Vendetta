@@ -29,7 +29,7 @@
 | Hito | Inicio | Fin | Estado |
 |---|---|---|---|
 | Sprint 1 · Conceptualización, planificación y especificación | 2 nov 2026 | 3 nov 2026 (cierre real; planificado: 4 nov) | Completado |
-| **Entrega 1** (GA6-220501088-AA1-EV01) | — | **5 nov 2026** | Pendiente |
+| **Entrega 1** (GA6-220501088-AA1-EV01) | — | **5 nov 2026** | Completado |
 | Sprint 2 · Diagrama de clases UML y pseudocódigo (propuesto) | 6 nov 2026 | 17 nov 2026 | Propuesto |
 | Sprint 3 · Diagramas de secuencia e implementación en C# (propuesto) | 18 nov 2026 | 1 dic 2026 | Propuesto |
 | Cierre: videos de sustentación y gameplay, build, PDF integrador (propuesto) | 2 dic 2026 | 3 dic 2026 | Propuesto |
@@ -56,8 +56,6 @@ Los sprints 2 y 3 son una propuesta y se ajustarán en la planificación de cada
 ---
 
 ## 3. Presupuesto estimado
-
-Los valores son estimaciones de referencia académica con supuestos explícitos. Ajusta los supuestos si tu realidad es distinta.
 
 ### 3.1 Supuestos
 
